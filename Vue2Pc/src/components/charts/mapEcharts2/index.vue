@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import universallyEcharts from '../../universallyEcharts/index'
+import universallyEcharts from '../universallyEcharts/index'
 import echarts from 'echarts'
 // 浙江省地图
 import zhejiang from 'views/policyassist/center/centerMap/components/config/zhejiang.json'
